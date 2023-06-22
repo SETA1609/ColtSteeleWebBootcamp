@@ -10,6 +10,7 @@ function App() {
   return (
     <>
       <MyButton message ="You kill me Mary!!!!" buttonText="Click harder" />
+      <MyButton message ="Stop" buttonText="Dont Click" />
     </>
   )
 }
